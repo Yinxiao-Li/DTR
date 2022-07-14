@@ -2,7 +2,7 @@
 
 In the folder of each case, there are 4 folders named **code**, **weather_from_2011_to_2020**, **weather_2025** and **weather_2100**.
 
-The code folder includes the parameters of distribution systems and the codes to perform the one-year operating simulation and calculate the installed capacities and investment benefits of customers’ PV systems.
+The code folder includes the parameters of distribution systems, the soil characteristic parameters and the codes to perform the one-year operating simulation and calculate the installed capacities and investment benefits of customers’ PV systems.
 
 **test_main.m** is the code file to calculate the installed capacities and investment benefits of customers’ PV systems.
 

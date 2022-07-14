@@ -11,7 +11,7 @@ The branches numbered 39 to 52 are transformers.
 
 In the calculation of our work, only the loadings of low-voltage cables exceeded the nameplate capacity, so we only calculated the capacities of low-voltage cables in Scenario DTR.
 
-The parameters of cables and transformers are included in **Texan case-equipment parameters .xlsx**.
+The the soil characteristic parameters and the parameters of cables and transformers are included in **Texan case-equipment parameters.xlsx**.
 
 **cabletem370.m** and **cabletem550.m** are the codes to calculate the temperatures of cables with nameplate capacities of 0. 3076 MW or 0. 4573 MW in each time period (nameplate capacity of 0.3076 MW is equivalent to 370A, while nameplate capacity of 0. 4573 MW is equivalent to 550A).
 

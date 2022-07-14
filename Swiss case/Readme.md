@@ -2,7 +2,7 @@
 The Swiss distribution network system is derived from an actual distribution network in Zurich. We are sorry that it is inconvenient to disclose the data of distribution network. The data could be found upon request.
 
 In the calculation of our work, only the loadings of low-voltage cables exceeded the nameplate rating, so we only calculated the capacities of low-voltage cables in Scenario DTR.
-The parameters of cables and transformers are included in **Swiss case-equipment parameters.xlsx**.
+The the soil characteristic parameters and the parameters of cables and transformers are included in **Swiss case-equipment parameters.xlsx**.
 
 cabletem758.m is the code to calculate the temperatures of cables with nameplate capacity of 0. 5514 MW in each time period (nameplate capacity of 0. 5514 MW is equivalent to 758 A).
 
